@@ -32,20 +32,21 @@
 
 <div align="left">
 
-  <img src="https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white" height="25" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=yellow" height="25" />
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black" height="25" />
-  <img src="https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white" height="25" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" height="25" />
-  <img src="https://img.shields.io/badge/Numpy-013243?style=flat&logo=numpy&logoColor=white" height="25" />
-  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=flat&logo=python&logoColor=white" height="25" />
-  <img src="https://img.shields.io/badge/Seaborn-4C8CBF?style=flat&logo=python&logoColor=white" height="25" />
-  <img src="https://img.shields.io/badge/Hypothesis%20Testing-FF6F00?style=flat&logo=analytics&logoColor=white" height="25" />
-  <img src="https://img.shields.io/badge/Data%20Analysis-1F72CD?style=flat&logo=google-analytics&logoColor=white" height="25" />
-  <img src="https://img.shields.io/badge/Data%20Cleaning-0A66C2?style=flat&logo=codeigniter&logoColor=white" height="25" />
-  <img src="https://img.shields.io/badge/Data%20Modeling-FF5733?style=flat&logo=data&logoColor=white" height="25" />
+  <img src="https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white&logoWidth=30" height="30" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=yellow&logoWidth=30" height="30" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black&logoWidth=30" height="30" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white&logoWidth=30" height="30" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white&logoWidth=30" height="30" />
+  <img src="https://img.shields.io/badge/Numpy-013243?style=flat&logo=numpy&logoColor=white&logoWidth=30" height="30" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=flat&logo=python&logoColor=white&logoWidth=30" height="30" />
+  <img src="https://img.shields.io/badge/Seaborn-4C8CBF?style=flat&logo=python&logoColor=white&logoWidth=30" height="30" />
+  <img src="https://img.shields.io/badge/Hypothesis%20Testing-FF6F00?style=flat&logo=analytics&logoColor=white&logoWidth=30" height="30" />
+  <img src="https://img.shields.io/badge/Data%20Analysis-1F72CD?style=flat&logo=google-analytics&logoColor=white&logoWidth=30" height="30" />
+  <img src="https://img.shields.io/badge/Data%20Cleaning-0A66C2?style=flat&logo=codeigniter&logoColor=white&logoWidth=30" height="30" />
+  <img src="https://img.shields.io/badge/Data%20Modeling-FF5733?style=flat&logo=data&logoColor=white&logoWidth=30" height="30" />
 
 </div>
+
 
 
 
