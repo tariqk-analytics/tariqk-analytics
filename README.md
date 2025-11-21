@@ -20,12 +20,6 @@
 
 <div align="left">
   <a href="https://www.linkedin.com/in/tariqk-analytics/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
-  </a>
-</div>
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/tariqk-analytics/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white&logoWidth=35" height="35" alt="linkedin logo" />
   </a>
 </div>
@@ -51,22 +45,6 @@
   <img src="https://img.shields.io/badge/Data%20Analysis-1F72CD?style=flat&logo=google-analytics&logoColor=white&logoWidth=35" height="35" />
   <img src="https://img.shields.io/badge/Data%20Cleaning-0A66C2?style=flat&logo=codeigniter&logoColor=white&logoWidth=35" height="35" />
   <img src="https://img.shields.io/badge/Data%20Modeling-FF5733?style=flat&logo=data&logoColor=white&logoWidth=35" height="35" />
-
-</div>
-
-
-<div align="left">
-
-  <img src="https://skillicons.dev/icons?i=postgres" height="50" />
-  <img src="https://skillicons.dev/icons?i=python" height="50" />
-  <img src="https://skillicons.dev/icons?i=powerbi" height="50" />
-  <img src="https://skillicons.dev/icons?i=excel" height="50" />
-  <img src="https://skillicons.dev/icons?i=pandas" height="50" />
-  <img src="https://skillicons.dev/icons?i=numpy" height="50" />
-  <img src="https://skillicons.dev/icons?i=matplotlib" height="50" />
-  <img src="https://skillicons.dev/icons?i=seaborn" height="50" />
-  <img src="https://skillicons.dev/icons?i=r" height="50" />
-  <img src="https://skillicons.dev/icons?i=analytics" height="50" />
 
 </div>
 
