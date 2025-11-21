@@ -3,7 +3,7 @@
 Welcome to my little corner of GitHub!
 I’m Tariq — a Data Analyst obsessed with turning messy data into clean insights, sharp dashboards, and meaningful stories that actually help businesses make better decisions.
 
-Here, you’ll find:
+**Here, you’ll find:**
 
 - 📊 Data projects I’m building — real business datasets, cleaned and analyzed
 - 🧠 Things I’m learning while juggling SQL, Python, and Power BI
