@@ -32,7 +32,7 @@
 
 <div align="left">
 
-  <img src="https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white&logoWidth=40" />
+  <img src="https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white&logoWidth=100" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=yellow&logoWidth=25" />
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black&logoWidth=25" />
   <img src="https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white&logoWidth=25" />
