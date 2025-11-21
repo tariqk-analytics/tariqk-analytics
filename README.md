@@ -1,6 +1,6 @@
 # Hey there👋 I'm so glad you're here!
 
-Welcome to my little corner of GitHub!
+### Welcome to my little corner of GitHub!
 I’m Tariq — a Data Analyst obsessed with turning messy data into clean insights, sharp dashboards, and meaningful stories that actually help businesses make better decisions.
 
 **Here, you’ll find:**
