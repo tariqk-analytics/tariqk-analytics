@@ -5,10 +5,10 @@
 
 ### **Here, you’ll find:**
 
-### - 📊 Data projects I’m building — real business datasets, cleaned and analyzed
-### - 🧠 Things I’m learning while juggling SQL, Python, and Power BI
-### - ⚡ Quick experiments with EDA, dashboards, and automation
-### - 💡 Insights I pick up while navigating the analytics world
+#### - 📊 Data projects I’m building — real business datasets, cleaned and analyzed
+#### - 🧠 Things I’m learning while juggling SQL, Python, and Power BI
+#### - ⚡ Quick experiments with EDA, dashboards, and automation
+#### - 💡 Insights I pick up while navigating the analytics world
 
 ### Whether you're here to explore dashboards, read analysis notebooks, or see how I break down business problems — you're in the right place. 👇
 
