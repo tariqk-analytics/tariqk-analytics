@@ -55,5 +55,19 @@
 </div>
 
 
+<div align="left">
+
+  <img src="https://skillicons.dev/icons?i=postgres" height="50" />
+  <img src="https://skillicons.dev/icons?i=python" height="50" />
+  <img src="https://skillicons.dev/icons?i=powerbi" height="50" />
+  <img src="https://skillicons.dev/icons?i=excel" height="50" />
+  <img src="https://skillicons.dev/icons?i=pandas" height="50" />
+  <img src="https://skillicons.dev/icons?i=numpy" height="50" />
+  <img src="https://skillicons.dev/icons?i=matplotlib" height="50" />
+  <img src="https://skillicons.dev/icons?i=seaborn" height="50" />
+  <img src="https://skillicons.dev/icons?i=r" height="50" />
+  <img src="https://skillicons.dev/icons?i=analytics" height="50" />
+
+</div>
 
 ###
