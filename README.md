@@ -1,8 +1,8 @@
-<p align="left">Hey there👋 I'm so glad you're here!<br><br>
+<p align="left"><b>Hey there👋 I'm so glad you're here!</b><br><br>
 Welcome to my little corner of GitHub!<br>
 I’m Tariq — a Data Analyst obsessed with turning messy data into clean insights, sharp dashboards, and meaningful stories that actually help businesses make better decisions.<br><br>
 
-Here, you’ll find:<br><br>
+<b>Here, you’ll find:</b><br><br>
 - 📊 Data projects I’m building — real business datasets, cleaned and analyzed<br>
 - 🧠 Things I’m learning while juggling SQL, Python, and Power BI<br>
 - ⚡ Quick experiments with EDA, dashboards, and automation<br>
@@ -25,7 +25,7 @@ Whether you're here to explore dashboards, read analysis notebooks, or see how I
 
 ###
 
-<h2 align="left">Skills</h2>
+<h2 align="left">Skills</hh2>
 
 ###
 
